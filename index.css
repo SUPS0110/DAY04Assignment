@@ -60,3 +60,9 @@ p{
 button:hover{
     background-color: brown;
 }
+@media(max-width: 760px)
+{
+    body{
+        background-color: rgb(190, 10, 10);
+    }
+}
